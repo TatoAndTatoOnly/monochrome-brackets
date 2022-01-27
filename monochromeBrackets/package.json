@@ -8,7 +8,7 @@
     "theme": {
         "file": "theme.less",
         "dark": true,
-        "addModeClass": true
+        "addModeClass": false
     },
     "keywords": ["theme"]
 }
