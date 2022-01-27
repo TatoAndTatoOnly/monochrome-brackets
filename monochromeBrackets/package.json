@@ -1,0 +1,14 @@
+{
+    "name": "tatoandtatoonly.monochrome",
+    "title": "Ultimate Monochrome",
+    "description": "A very minimal monochrome theme",
+    "homepage": "https://github.com/yourname/my-shiny-theme",
+    "version": "1.0.0",
+    "license": "GNU GPLv3",
+    "theme": {
+        "file": "theme.less",
+        "dark": true,
+        "addModeClass": true
+    },
+    "keywords": ["theme"]
+}
